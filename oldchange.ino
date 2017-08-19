@@ -41,7 +41,7 @@
 #define PRECUTDELAY 20 //20ms before
 #define CUTDELAY 200 //200ms during
 #define POSTCUTDELAY 150 //150ms after
-#define CUTFULL 1 //Cut all servo time
+#define CUTFULL 0 //Cut all servo time
 
 Servo gearchg;
 Servo clutch;
